@@ -1,0 +1,142 @@
+2021-06-07 16:56:41,105 base_page.py INFO open 打开网页F:\python_auto\ui_test_auto\config\url_path.ini\auth/login
+2021-06-07 16:56:41,406 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-06-07 16:56:46,939 base_page.py ERROR input 输入失败！'NoneType' object has no attribute 'send_keys'
+2021-06-07 16:56:46,939 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-06-07 16:59:31,363 base_page.py INFO open 打开网页F:\python_auto\ui_test_auto\config\url_path.iniauth/login
+2021-06-07 16:59:31,611 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-06-07 16:59:37,340 base_page.py ERROR input 输入失败！'NoneType' object has no attribute 'send_keys'
+2021-06-07 16:59:37,341 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-06-07 16:59:37,344 base_page.py ERROR locator 元素定位失败 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.212)
+
+2021-06-07 16:59:37,345 base_page.py ERROR input 输入失败！'NoneType' object has no attribute 'send_keys'
+2021-06-07 16:59:37,345 base_page.py INFO click 正在点击
+2021-06-07 16:59:37,349 base_page.py ERROR locator 元素定位失败 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.212)
+
+2021-06-07 16:59:37,350 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-07 17:01:16,136 base_page.py INFO open 打开网页HOSTauth/login
+2021-06-07 17:01:16,140 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-06-07 17:01:19,637 base_page.py ERROR input 输入失败！'NoneType' object has no attribute 'send_keys'
+2021-06-07 17:01:19,638 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-06-07 17:01:19,642 base_page.py ERROR locator 元素定位失败 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.212)
+
+2021-06-07 17:01:19,642 base_page.py ERROR input 输入失败！'NoneType' object has no attribute 'send_keys'
+2021-06-07 17:01:19,643 base_page.py INFO click 正在点击
+2021-06-07 17:01:19,650 base_page.py ERROR locator 元素定位失败 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.212)
+
+2021-06-07 17:01:19,651 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-07 17:27:50,219 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-06-07 17:27:52,788 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-06-07 17:27:52,859 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-06-07 17:27:52,965 base_page.py INFO click 正在点击
+2021-06-07 18:04:17,103 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-06-07 18:04:19,491 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-06-07 18:04:19,569 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-06-07 18:04:19,680 base_page.py INFO click 正在点击
+2021-06-08 10:22:24,426 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-06-08 10:22:26,804 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-06-08 10:22:26,911 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-06-08 10:22:27,101 base_page.py INFO click 正在点击
+2021-06-08 10:59:56,751 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-06-08 10:59:59,314 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-06-08 10:59:59,403 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-06-08 10:59:59,513 base_page.py INFO click 正在点击
+2021-06-08 11:34:47,915 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-06-08 11:34:50,612 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-06-08 11:34:50,683 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-06-08 11:34:50,789 base_page.py INFO click 正在点击
+2021-06-08 14:59:21,167 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 14:59:23,599 base_page.py INFO click 正在点击
+2021-06-08 14:59:33,648 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tbody[@class="p-datatable-tbody"]/tr[1]/td[10]/div/button[text()=" 编辑 "]"}
+  (Session info: chrome=90.0.4430.212)
+
+2021-06-08 14:59:33,648 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:17:11,266 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:17:13,971 base_page.py INFO click 正在点击
+2021-06-08 15:17:23,993 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tbody[@class="p-datatable-tbody"]/tr[1]/td[10]/div/button[text()=" 编辑 "]"}
+  (Session info: chrome=90.0.4430.212)
+
+2021-06-08 15:17:23,993 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:19:23,355 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:19:24,972 base_page.py INFO click 正在点击
+2021-06-08 15:20:32,251 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:20:34,077 base_page.py INFO click 正在点击
+2021-06-08 15:22:39,160 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:22:42,026 base_page.py INFO click 正在点击
+2021-06-08 15:22:48,015 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:22:53,489 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:22:55,140 base_page.py INFO click 正在点击
+2021-06-08 15:23:57,714 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:23:59,308 base_page.py INFO click 正在点击
+2021-06-08 15:24:00,399 base_page.py INFO goto_wait 正在等待...
+2021-06-08 15:24:01,414 base_page.py INFO click 正在点击
+2021-06-08 15:39:41,881 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:39:48,767 base_page.py INFO click 正在点击
+2021-06-08 15:39:58,783 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="NEW 新增"]"}
+  (Session info: headless chrome=90.0.4430.212)
+
+2021-06-08 15:39:58,783 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:40:46,731 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:40:53,765 base_page.py INFO click 正在点击
+2021-06-08 15:41:03,807 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="NEW 新增"]"}
+  (Session info: headless chrome=90.0.4430.212)
+
+2021-06-08 15:41:03,807 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:41:41,162 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:41:48,108 base_page.py INFO click 正在点击
+2021-06-08 15:41:58,178 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="NEW 新增"]"}
+  (Session info: headless chrome=90.0.4430.212)
+
+2021-06-08 15:41:58,178 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:42:38,604 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:42:46,327 base_page.py INFO click 正在点击
+2021-06-08 15:42:56,389 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="NEW 新增"]"}
+  (Session info: headless chrome=90.0.4430.212)
+
+2021-06-08 15:42:56,389 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:43:11,624 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:43:14,490 base_page.py INFO click 正在点击
+2021-06-08 15:44:12,301 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:44:18,921 base_page.py INFO click 正在点击
+2021-06-08 15:44:28,956 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="NEW 新增"]"}
+  (Session info: headless chrome=90.0.4430.212)
+
+2021-06-08 15:44:28,957 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:45:51,388 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:45:58,006 base_page.py INFO click 正在点击
+2021-06-08 15:46:08,020 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="NEW 新增"]"}
+  (Session info: headless chrome=90.0.4430.212)
+
+2021-06-08 15:46:08,020 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-08 15:46:19,207 base_page.py INFO open 打开网页https://bms-test.sheencity.com/resources/material/editable
+2021-06-08 15:46:25,693 base_page.py INFO click 正在点击
+2021-06-08 15:46:35,700 base_page.py ERROR locator 元素定位失败 Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()="NEW 新增"]"}
+  (Session info: headless chrome=90.0.4430.212)
+
+2021-06-08 15:46:35,700 base_page.py ERROR click 点击失败 'NoneType' object has no attribute 'click'
+2021-06-11 15:48:07,706 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-07-14 11:03:26,884 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-07-14 11:03:33,084 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-07-14 11:03:33,158 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-07-14 11:03:33,304 base_page.py INFO click 正在点击
+2021-07-14 11:03:33,425 base_page.py INFO goto_wait 正在等待...
+2021-07-14 11:03:34,428 base_page.py INFO click 正在点击
+2021-07-15 15:45:45,364 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-07-15 15:45:48,865 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-07-15 15:45:48,975 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-07-15 15:45:49,141 base_page.py INFO click 正在点击
+2021-07-15 15:45:49,265 base_page.py INFO goto_wait 正在等待...
+2021-07-15 15:45:50,269 base_page.py INFO click 正在点击
+2021-07-15 17:43:48,434 base_page.py INFO open 打开网页https://bms-test.sheencity.com/auth/login
+2021-07-15 17:43:54,973 base_page.py INFO input 正在定位及元素('id', 'input-key')，输入的文本为chenjing
+2021-07-15 17:43:55,147 base_page.py INFO input 正在定位及元素('id', 'input-password')，输入的文本为cj123456
+2021-07-15 17:43:55,379 base_page.py INFO click 正在点击
+2021-07-15 17:43:55,540 base_page.py INFO goto_wait 正在等待...
+2021-07-15 17:43:56,550 base_page.py INFO click 正在点击

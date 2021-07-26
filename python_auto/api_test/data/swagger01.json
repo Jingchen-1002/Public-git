@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "url": "http://39.98.138.157:5000/api/login",
+      "method": "post",
+      "params_type": "json",
+      "data": {
+        "username": "admin",
+        "password": "123456"
+      },
+      "assert_type": {
+        "expect_code": 200,
+        "get_code": "$..httpstatus"
+      },
+      "get_token": [
+        {
+          "token": "$..token"
+        }
+      ]
+    },
+    {
+      "url": "http://39.98.138.157:5000/api/getuserinfo",
+      "method": "get",
+      "params_type": "json",
+      "data": null,
+      "assert_info": {
+        "expect_code": 200,
+        "get_code": "$..httpstatus"
+      },
+      "get_info":[
+          {
+            "openid": "$..openid",
+            "userid": "$..userid"
+          }
+      ]
+    },
+    {
+      "url": "http://39.98.138.157:5000/api/addcart",
+      "method": "post",
+      "params_type": "json",
+      "data": {
+        "openid": "%(openid)s",
+        "productid": 8888,
+        "userid": "%(userid)d"
+      },
+      "assert_info": {
+        "except_code": 200,
+        "get_code": "$..httpstatus"
+      }
+    }
+  ]
+}

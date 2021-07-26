@@ -1,0 +1,9 @@
+name: test001
+package:
+  - r'F:\Pak\pak02\001\ZLS_16_eye04_Mat_Inst.uasset'
+  - r'F:\Pak\pak02\001\001.png'
+  - r'F:\Pak\pak02\001\ZLS_swimmer_16.uasset'
+pak: r'F:\Pak\pak02\1597380897994.pak'
+ini: r'F:\ini文件\丝兰.ini'
+su: r'F:\spk\test001.skp'
+makefile: r'F:\图片视频音乐文件\001.png'

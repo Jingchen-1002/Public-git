@@ -1,0 +1,14 @@
+data:
+  -
+    url: https://api.xdclass.net/pub/api/v1/web/web_login
+    method: "post"
+    params_type: "form"
+    data:
+      phone: 15148189529
+      pwd: cj580231.
+    assert_info:
+      except_code: 0
+      get_node: "$..code"
+    get_info:
+      -
+        token: "$..token"

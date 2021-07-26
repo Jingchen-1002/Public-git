@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "url": "https://api.xdclass.net/pub/api/v1/web/all_category",
+      "method": "get",
+      "params_type": "json",
+      "data": null,
+      "assert_info": {
+        "except_code": 0,
+        "get_node": "$..code"
+      }
+    },
+    {
+      "url": "https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53",
+      "method": "get",
+      "params_type": "json",
+      "data": null,
+      "assert_info": {
+        "except_code": 0,
+        "get_node": "$..code"
+      }
+    },
+    {
+      "url": "https://api.xdclass.net/pub/api/v1/web/web_login",
+      "method": "post",
+      "params_type": "form",
+      "data": {
+        "phone": "15148189529",
+        "pwd": "cj580231."
+      },
+      "assert_info": {
+        "except_code": 0,
+        "get_node": "$..code"
+      },
+      "get_info": [
+        {
+          "token": "$..token"
+        }
+      ]
+    },
+    {
+      "url": "https://api.xdclass.net/pub/api/v1/web/user_info",
+      "method": "get",
+      "params_type": "json",
+      "data": null,
+      "assert_info": {
+        "except_code": 0,
+        "get_node": "$..code"
+      }
+    },
+    {
+      "url": "https://api.xdclass.net/user/api/v1/order/find_orders",
+      "method": "get",
+      "params_type": "json",
+      "data": null,
+      "assert_info": {
+        "except_code": 0,
+        "get_node": "$..code"
+      }
+    },
+    {
+      "url": "https://api.xdclass.net/user/api/v1/favorite/save",
+      "method": "post",
+      "params_type": "form",
+      "data": {
+        "video_id": 53
+      },
+      "assert_info": {
+        "except_code": 0,
+        "get_node": "$..code"
+      }
+    },
+    {
+      "url": "https://api.xdclass.net/user/api/v1/favorite/page",
+      "method": "get",
+      "params_type": "json",
+      "data": null,
+      "assert_info": {
+        "except_code": 0,
+        "get_node": "$..code"
+      }
+    }
+  ]
+}

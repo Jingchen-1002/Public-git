@@ -1,0 +1,176 @@
+2021-07-15 15:15:27,932 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:15:28,776 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:15:29,061 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/user_info,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:15:29,116 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/order/find_orders,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:15:29,305 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/favorite/page,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:18:39,779 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:18:40,175 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:18:40,323 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/pub/api/v1/web/web_login,请求头headers：None，请求参数：{'phone': '15148189529', 'pwd': 'cj580231.'}，请求格式：FORM
+2021-07-15 15:18:40,395 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/user_info,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:18:40,457 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/order/find_orders,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:18:40,584 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/user/api/v1/favorite/save,请求头headers：None，请求参数：{'video_id': 53}，请求格式：FORM
+2021-07-15 15:18:40,639 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/favorite/page,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:21:24,716 httpcilent.py ERROR send_request 请求方法:GETT,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:22:03,579 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:22:04,254 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:22:04,512 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/pub/api/v1/web/web_login,请求头headers：None，请求参数：{'phone': '151481895291', 'pwd': 'cj580231.'}，请求格式：FORM
+2021-07-15 15:23:51,049 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:23:51,484 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:23:51,756 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/pub/api/v1/web/web_login,请求头headers：None，请求参数：{'phone': '15148189529', 'pwd': 'cj580231.'}，请求格式：FORM
+2021-07-15 15:23:51,836 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/user_info,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:23:51,902 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/order/find_orders,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 15:23:52,042 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/user/api/v1/favorite/save,请求头headers：None，请求参数：{'video_id': 53}，请求格式：FORM
+2021-07-15 15:23:52,101 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/favorite/page,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 17:53:51,516 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 17:53:52,089 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 17:53:52,269 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/pub/api/v1/web/web_login,请求头headers：None，请求参数：{'phone': '15148189529', 'pwd': 'cj580231.'}，请求格式：FORM
+2021-07-15 17:53:52,327 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/user_info,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 17:53:52,378 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/order/find_orders,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 17:53:52,487 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/user/api/v1/favorite/save,请求头headers：None，请求参数：{'video_id': 53}，请求格式：FORM
+2021-07-15 17:53:52,539 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/favorite/page,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:40:32,443 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:40:32,962 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:40:33,111 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/pub/api/v1/web/web_login,请求头headers：None，请求参数：{'phone': '15148189529', 'pwd': 'cj580231.'}，请求格式：FORM
+2021-07-15 18:40:33,166 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/user_info,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:40:33,215 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/order/find_orders,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:40:33,306 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/user/api/v1/favorite/save,请求头headers：None，请求参数：{'video_id': 53}，请求格式：FORM
+2021-07-15 18:40:33,355 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/favorite/page,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:41:39,594 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:41:39,855 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:41:40,003 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/pub/api/v1/web/web_login,请求头headers：None，请求参数：{'phone': '15148189529', 'pwd': 'cj580231.'}，请求格式：FORM
+2021-07-15 18:41:40,058 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/user_info,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:41:40,103 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/order/find_orders,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-15 18:41:40,193 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/user/api/v1/favorite/save,请求头headers：None，请求参数：{'video_id': 53}，请求格式：FORM
+2021-07-15 18:41:40,240 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/favorite/page,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 17:38:35,768 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：[{'username': 'admin', 'password': 123456}]，请求格式：JSON
+2021-07-26 17:39:51,465 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：[{'username': 'admin', 'password': 123456}]，请求格式：JSON
+2021-07-26 17:41:56,261 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：[{'username': 'admin', 'password': 123456}]，请求格式：JSON
+2021-07-26 17:44:05,690 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/all_category,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 17:44:06,259 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/video_detail?video_id=53,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 17:44:06,443 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/pub/api/v1/web/web_login,请求头headers：None，请求参数：{'phone': '15148189529', 'pwd': 'cj580231.'}，请求格式：FORM
+2021-07-26 17:44:06,502 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/pub/api/v1/web/user_info,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 17:44:06,550 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/order/find_orders,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 17:44:06,644 httpcilent.py INFO send_request 请求方法:POST,请求url：https://api.xdclass.net/user/api/v1/favorite/save,请求头headers：None，请求参数：{'video_id': 53}，请求格式：FORM
+2021-07-26 17:44:06,692 httpcilent.py INFO send_request 请求方法:GET,请求url：https://api.xdclass.net/user/api/v1/favorite/page,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 17:47:05,577 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': 123456}，请求格式：JSON
+2021-07-26 17:47:51,596 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 17:51:52,839 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 17:52:23,749 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 17:52:47,999 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 17:58:05,091 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 18:01:25,844 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 18:06:47,914 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 18:06:47,945 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/user/list,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 18:08:34,332 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 18:08:34,361 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/user/list,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 18:11:50,961 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 18:11:50,992 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/user/list,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 18:17:20,710 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 18:17:20,740 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/user/viplist,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 18:24:29,466 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 18:24:29,499 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 18:25:42,673 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 18:25:42,702 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 19:36:21,303 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 19:36:21,335 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 19:38:22,238 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 19:38:22,268 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 21:29:04,061 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 21:29:04,106 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 21:48:07,188 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 21:48:07,230 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 21:48:07,294 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': None, 'productid': 8888, 'userid': None}，请求格式：JSON
+2021-07-26 21:50:51,134 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 21:50:51,181 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 21:50:51,219 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': None, 'productid': 8888, 'userid': "TestSwaggerAPI.dic['userid']"}，请求格式：JSON
+2021-07-26 22:06:25,800 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:06:26,441 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:06:26,646 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': '%(openid)s', 'productid': 8888, 'userid': '%(userid)s'}，请求格式：JSON
+2021-07-26 22:08:49,259 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:08:49,493 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:08:49,698 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 22:11:10,385 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:11:10,498 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:11:10,703 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 22:12:00,229 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:12:00,369 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:12:00,573 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': '8888', 'userid': '17890'}，请求格式：JSON
+2021-07-26 22:17:29,250 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:17:29,481 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:17:29,685 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': '8888', 'userid': '17890'}，请求格式：JSON
+2021-07-26 22:23:39,484 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:23:41,702 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:23:44,576 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': '8888', 'userid': '17890'}，请求格式：JSON
+2021-07-26 22:25:10,714 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:25:11,919 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:25:14,198 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': "int'17890'"}，请求格式：JSON
+2021-07-26 22:38:57,436 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:38:59,534 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:38:59,642 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 22:40:46,086 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:40:46,317 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:41:23,493 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:41:23,806 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:41:59,690 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:41:59,839 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:41:59,938 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 22:44:40,467 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:45:11,612 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:45:11,834 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:45:13,375 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 22:48:37,133 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 22:48:39,251 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 22:48:42,321 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 23:07:52,591 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:07:54,738 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:07:56,884 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 23:08:56,703 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:08:58,751 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:09:00,790 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 23:10:10,540 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:10:12,599 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:10:14,643 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 23:13:54,967 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:14:12,069 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:14:14,114 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': 'int(17890)'}，请求格式：JSON
+2021-07-26 23:15:54,310 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:15:54,379 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:15:54,415 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': 17890}，请求格式：JSON
+2021-07-26 23:22:33,759 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:22:33,804 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:23:27,963 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:23:28,011 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:23:56,316 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:23:56,360 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:23:56,396 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': 17890}，请求格式：JSON
+2021-07-26 23:24:21,276 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:24:21,322 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:24:21,354 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': 17890}，请求格式：JSON
+2021-07-26 23:26:19,215 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:26:19,368 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:26:19,539 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': '{}.format(userid)', 'productid': 8888, 'userid': 17890}，请求格式：JSON
+2021-07-26 23:27:32,511 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:27:32,553 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:27:32,586 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '"{}".format(userid)'}，请求格式：JSON
+2021-07-26 23:28:47,612 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:28:47,656 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:28:47,690 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 23:33:13,080 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:33:13,241 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:33:13,403 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890.000000'}，请求格式：JSON
+2021-07-26 23:33:34,622 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:33:34,666 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:33:34,700 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 23:34:04,214 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:34:04,387 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:34:04,495 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': "'17890'"}，请求格式：JSON
+2021-07-26 23:43:44,508 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：FORM
+2021-07-26 23:44:21,010 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:45:19,364 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:45:19,413 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:48:12,357 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:48:12,400 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:48:12,433 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
+2021-07-26 23:49:01,214 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/login,请求头headers：None，请求参数：{'username': 'admin', 'password': '123456'}，请求格式：JSON
+2021-07-26 23:49:01,257 httpcilent.py INFO send_request 请求方法:GET,请求url：http://39.98.138.157:5000/api/getuserinfo,请求头headers：None，请求参数：None，请求格式：JSON
+2021-07-26 23:49:01,294 httpcilent.py INFO send_request 请求方法:POST,请求url：http://39.98.138.157:5000/api/addcart,请求头headers：None，请求参数：{'openid': 'UEHUXUXU78272SDSassDD', 'productid': 8888, 'userid': '17890'}，请求格式：JSON
